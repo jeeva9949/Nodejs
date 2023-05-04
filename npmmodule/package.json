@@ -1,0 +1,15 @@
+{
+  "name": "npmmodule",
+  "version": "1.0.0",
+  "description": "jeeva node npm modules learn ",
+  "main": "npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeeva",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "validator.js": "^2.0.4"
+  }
+}
